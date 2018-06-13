@@ -1,0 +1,7 @@
+Name: API RCL-Tables;
+Version: 0.1;
+Support Core: 16.11.0;
+Description: Новое API таблиц;
+Author: Владимир Дружаев (Otshelnik-Fm);
+Author URI: https://otshelnik-fm.ru/;
+Add-on URI: https://codeseller.ru/products/;
